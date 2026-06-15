@@ -172,12 +172,12 @@ The visual metaphor of glass reflects the product's core idea — AURA is an inv
 
 ---
 
-## Developer
+## Developed by
 
-Devasurya Senthilkumar❤️
 ---
 
 <div align="center">
+Devasurya Senthilkumar❤️
 
 **Built with 🌌 obsessive attention to atmosphere**
 
